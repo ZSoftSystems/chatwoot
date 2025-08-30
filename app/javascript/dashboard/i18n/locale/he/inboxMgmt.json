@@ -1,10 +1,10 @@
 {
   "INBOX_MGMT": {
     "HEADER": "תיבות דואר נכנס",
-    "DESCRIPTION": "A channel is the mode of communication your customer chooses to interact with you. An inbox is where you manage interactions for a specific channel. It can include communications from various sources such as email, live chat, and social media.",
-    "LEARN_MORE": "Learn more about inboxes",
-    "RECONNECTION_REQUIRED": "Your inbox is disconnected. You won't receive new messages until you reauthorize it.",
-    "CLICK_TO_RECONNECT": "Click here to reconnect.",
+    "DESCRIPTION": "ערוץ הוא אמצעי התקשורת שבו הלקוח שלך בוחר לתקשר איתך. תיבת דואר נכנס היא המקום שבו אתה מנהל אינטראקציות עבור ערוץ מסוים. היא יכולה לכלול תקשורת ממקורות שונים כגון דוא\"ל, צ'אט חי ורשתות חברתיות.",
+    "LEARN_MORE": "למידע נוסף על תיבות דואר נכנס",
+    "RECONNECTION_REQUIRED": "תיבת הדואר הנכנס שלך מנותקת. לא תקבל הודעות חדשות עד שתאשר מחדש.",
+    "CLICK_TO_RECONNECT": "לחץ כאן כדי להתחבר מחדש.",
     "LIST": {
       "404": "אין תיבות דואר נכנס מצורפות לחשבון זה."
     },
@@ -22,7 +22,7 @@
         "BODY": "הוסף נציגים לתיבת הדואר הנכנס שנוצרה."
       },
       "FINISH": {
-        "TITLE": "Voilà!",
+        "TITLE": "הצלחתי!",
         "BODY": "אתם מוכנים לצאת לדרך!"
       }
     },
@@ -42,21 +42,21 @@
         "CHOOSE_PLACEHOLDER": "בחר עמוד מהרשימה",
         "INBOX_NAME": "שם תיבת הדואר הנכנס",
         "ADD_NAME": "הוסף שם לתיבת הדואר הנכנס שלך",
-        "PICK_NAME": "Pick a Name for your Inbox",
+        "PICK_NAME": "בחר שם לתיבת הדואר הנכנס שלך",
         "PICK_A_VALUE": "בחר ערך",
         "CREATE_INBOX": "צור תיבת דואר נכנס"
       },
       "INSTAGRAM": {
-        "CONTINUE_WITH_INSTAGRAM": "Continue with Instagram",
-        "CONNECT_YOUR_INSTAGRAM_PROFILE": "Connect your Instagram Profile",
-        "HELP": "To add your Instagram profile as a channel, you need to authenticate your Instagram Profile by clicking on 'Continue with Instagram' ",
-        "ERROR_MESSAGE": "There was an error connecting to Instagram, please try again",
-        "ERROR_AUTH": "There was an error connecting to Instagram, please try again",
-        "NEW_INBOX_SUGGESTION": "This Instagram account was previously linked to a different inbox and has now been migrated here. All new messages will appear here. The old inbox will no longer be able to send or receive messages for this account.",
-        "DUPLICATE_INBOX_BANNER": "This Instagram account was migrated to the new Instagram channel inbox. You won’t be able to send/receive Instagram messages from this inbox anymore."
+        "CONTINUE_WITH_INSTAGRAM": "המשך עם אינסטגרם",
+        "CONNECT_YOUR_INSTAGRAM_PROFILE": "חבר את פרופיל האינסטגרם שלך",
+        "HELP": "כדי להוסיף את פרופיל האינסטגרם שלך כערוץ, עליך לאמת את פרופיל האינסטגרם שלך על ידי לחיצה על 'המשך עם אינסטגרם'",
+        "ERROR_MESSAGE": "אירעה שגיאה בחיבור לאינסטגרם, אנא נסה שוב",
+        "ERROR_AUTH": "אירעה שגיאה בחיבור לאינסטגרם, אנא נסה שוב",
+        "NEW_INBOX_SUGGESTION": "חשבון אינסטגרם זה היה מקושר בעבר לתיבת דואר נכנס אחרת וכעת הועבר לכאן. כל ההודעות החדשות יופיעו כאן. תיבת הדואר הישנה לא תוכל לשלוח או לקבל הודעות עבור חשבון זה.",
+        "DUPLICATE_INBOX_BANNER": "חשבון אינסטגרם זה הועבר לתיבת דואר נכנס חדשה של ערוץ אינסטגרם. לא תוכל לשלוח/לקבל הודעות אינסטגרם מתיבת דואר נכנס זו יותר."
       },
       "TWITTER": {
-        "HELP": "כדי להוסיף את פרופיל הטוויטר שלך כערוץ, עליך לאמת את פרופיל הטוויטר שלך על ידי לחיצה על 'היכנס באמצעות טוויטר' ",
+        "HELP": "כדי להוסיף את פרופיל הטוויטר שלך כערוץ, עליך לאמת את פרופיל הטוויטר שלך על ידי לחיצה על 'היכנס באמצעות טוויטר'",
         "ERROR_MESSAGE": "אירעה שגיאה בחיבור לטוויטר, אנא נסה שוב",
         "TWEETS": {
           "ENABLE": "צור שיחות מהציוצים המוזכרים"
@@ -65,13 +65,13 @@
       "WEBSITE_CHANNEL": {
         "TITLE": "ערוץ האתר",
         "DESC": "צור ערוץ לאתר שלך והתחל לתמוך בלקוחות שלך באמצעות ווידג'ט האתר שלנו.",
-        "LOADING_MESSAGE": "יצירת ערוץ תמיכה באתר",
+        "LOADING_MESSAGE": "יוצר ערוץ תמיכה באתר",
         "CHANNEL_AVATAR": {
           "LABEL": "אוואטר הערוץ"
         },
         "CHANNEL_WEBHOOK_URL": {
           "LABEL": "כתובת אתר של Webhook",
-          "PLACEHOLDER": "Please enter your Webhook URL",
+          "PLACEHOLDER": "אנא הזן את כתובת ה-Webhook שלך",
           "ERROR": "אנא הכנס כתובת URL חוקית"
         },
         "CHANNEL_DOMAIN": {
@@ -179,22 +179,22 @@
         "BANDWIDTH": {
           "ACCOUNT_ID": {
             "LABEL": "מזהה חשבון",
-            "PLACEHOLDER": "נא הכנס את מזהה ה- Bandwidth Account ID שלך",
+            "PLACEHOLDER": "נא הכנס את מזהה חשבון Bandwidth שלך",
             "ERROR": "שדה חובה"
           },
           "API_KEY": {
             "LABEL": "מפתח API",
-            "PLACEHOLDER": "Please enter your Bandwidth API Key",
+            "PLACEHOLDER": "נא הכנס את מפתח ה-API של Bandwidth",
             "ERROR": "שדה חובה"
           },
           "API_SECRET": {
             "LABEL": "סוד API",
-            "PLACEHOLDER": "Please enter your Bandwidth API Secret",
+            "PLACEHOLDER": "נא הכנס את סוד ה-API של Bandwidth",
             "ERROR": "שדה חובה"
           },
           "APPLICATION_ID": {
             "LABEL": "מזהה אפליקציה",
-            "PLACEHOLDER": "נא הכנס את מזהה ה-Bandwidth Application ID שלך",
+            "PLACEHOLDER": "נא הכנס את מזהה אפליקציית Bandwidth שלך",
             "ERROR": "שדה חובה"
           },
           "INBOX_NAME": {
@@ -213,7 +213,7 @@
           },
           "API_CALLBACK": {
             "TITLE": "כתובת אתר להתקשרות חוזרת",
-            "SUBTITLE": "עליך להגדיר את ה- message callback URL ב- Bandwidth עם ה-URL שמוצג כאן."
+            "SUBTITLE": "עליך להגדיר את כתובת ה-callback של ההודעות ב-Bandwidth עם ה-URL שמוצג כאן."
           }
         }
       },
@@ -222,16 +222,16 @@
         "DESC": "התחל לתמוך בלקוחות שלך באמצעות וואטסאפ.",
         "PROVIDERS": {
           "LABEL": "ספק API",
-          "WHATSAPP_EMBEDDED": "WhatsApp Business",
+          "WHATSAPP_EMBEDDED": "וואטסאפ ביזנס",
           "TWILIO": "טוויליו",
-          "WHATSAPP_CLOUD": "WhatsApp Cloud",
-          "WHATSAPP_CLOUD_DESC": "Quick setup through Meta",
-          "TWILIO_DESC": "Connect via Twilio credentials",
+          "WHATSAPP_CLOUD": "וואטסאפ קלאוד",
+          "WHATSAPP_CLOUD_DESC": "הגדרה מהירה דרך Meta",
+          "TWILIO_DESC": "התחבר באמצעות פרטי טוויליו",
           "360_DIALOG": "360Dialog"
         },
         "SELECT_PROVIDER": {
-          "TITLE": "Select your API provider",
-          "DESCRIPTION": "Choose your WhatsApp provider. You can connect directly through Meta which requires no setup, or connect through Twilio using your account credentials."
+          "TITLE": "בחר את ספק ה-API שלך",
+          "DESCRIPTION": "בחר את ספק הוואטסאפ שלך. תוכל להתחבר ישירות דרך Meta ללא הגדרה, או להתחבר דרך Twilio באמצעות פרטי החשבון שלך."
         },
         "INBOX_NAME": {
           "LABEL": "שם תיבת הדואר הנכנס",
@@ -245,17 +245,17 @@
         },
         "PHONE_NUMBER_ID": {
           "LABEL": "מזהה מספר טלפון",
-          "PLACEHOLDER": "נא הכנס את Phone number ID מתוך ממשק ה- Facebook developer.",
+          "PLACEHOLDER": "נא הכנס את מזהה מספר הטלפון מתוך ממשק Facebook developer.",
           "ERROR": "אנא הכנס ערך תקין."
         },
         "BUSINESS_ACCOUNT_ID": {
           "LABEL": "מזהה חשבון עסקי",
-          "PLACEHOLDER": "נא הכנס את Business Account ID מתוך ממשק ה- Facebook developer.",
+          "PLACEHOLDER": "נא הכנס את מזהה חשבון העסק מתוך ממשק Facebook developer.",
           "ERROR": "אנא הכנס ערך תקין."
         },
         "WEBHOOK_VERIFY_TOKEN": {
-          "LABEL": "Webhook Verify Token",
-          "PLACEHOLDER": "Enter a verify token which you want to configure for Facebook webhooks.",
+          "LABEL": "אסימון אימות Webhook",
+          "PLACEHOLDER": "הזן אסימון אימות שברצונך להגדיר עבור Webhooks של Facebook.",
           "ERROR": "אנא הכנס ערך תקין."
         },
         "API_KEY": {
@@ -266,81 +266,81 @@
         },
         "API_CALLBACK": {
           "TITLE": "כתובת אתר להתקשרות חוזרת",
-          "SUBTITLE": "עליך להגדיר את ה- webhook URL ואת ה- verification token הבאים בממשק ה- Facebook Developer.",
+          "SUBTITLE": "עליך להגדיר את כתובת ה-webhook ואת אסימון האימות הבאים בממשק Facebook Developer.",
           "WEBHOOK_URL": "כתובת אתר של Webhook",
           "WEBHOOK_VERIFICATION_TOKEN": "אסימון אימות Webhook"
         },
         "SUBMIT_BUTTON": "צור ערוץ וואטסאפ",
         "EMBEDDED_SIGNUP": {
-          "TITLE": "Quick Setup with Meta",
-          "DESC": "You will be redirected to Meta to log into your WhatsApp Business account. Having admin access will help make the setup smooth and easy.",
+          "TITLE": "הגדרה מהירה עם Meta",
+          "DESC": "תועבר ל-Meta כדי להיכנס לחשבון וואטסאפ ביזנס שלך. גישה ניהולית תסייע להשלמת ההגדרה בצורה חלקה וקלה.",
           "BENEFITS": {
-            "TITLE": "Benefits of Embedded Signup:",
-            "EASY_SETUP": "No manual configuration required",
-            "SECURE_AUTH": "Secure OAuth based authentication",
-            "AUTO_CONFIG": "Automatic webhook and phone number configuration"
+            "TITLE": "היתרונות של הרשמה משולבת:",
+            "EASY_SETUP": "אין צורך בהגדרה ידנית",
+            "SECURE_AUTH": "אימות מאובטח מבוסס OAuth",
+            "AUTO_CONFIG": "הגדרה אוטומטית של webhook ומספר טלפון"
           },
           "LEARN_MORE": {
-            "TEXT": "To learn more about integrated signup, pricing, and limitations, visit",
-            "LINK_TEXT": "this link.",
+            "TEXT": "למידע נוסף על הרשמה משולבת, תמחור ומגבלות, בקרו ב-",
+            "LINK_TEXT": "קישור זה.",
             "LINK_URL": "https://developers.facebook.com/docs/whatsapp/embedded-signup/custom-flows/onboarding-business-app-users#limitations"
           },
-          "SUBMIT_BUTTON": "Connect with WhatsApp Business",
-          "AUTH_PROCESSING": "Authenticating with Meta",
-          "WAITING_FOR_BUSINESS_INFO": "Please complete business setup in the Meta window...",
-          "PROCESSING": "Setting up your WhatsApp Business Account",
-          "LOADING_SDK": "Loading Facebook SDK...",
-          "CANCELLED": "WhatsApp Signup was cancelled",
-          "SUCCESS_TITLE": "WhatsApp Business Account Connected!",
-          "WAITING_FOR_AUTH": "Waiting for authentication...",
-          "INVALID_BUSINESS_DATA": "Invalid business data received from Facebook. Please try again.",
-          "SIGNUP_ERROR": "Signup error occurred",
-          "AUTH_NOT_COMPLETED": "Authentication not completed. Please restart the process.",
-          "SUCCESS_FALLBACK": "WhatsApp Business Account has been successfully configured"
+          "SUBMIT_BUTTON": "התחבר עם וואטסאפ ביזנס",
+          "AUTH_PROCESSING": "מתבצע אימות עם Meta",
+          "WAITING_FOR_BUSINESS_INFO": "אנא השלם את הגדרת העסק בחלון Meta...",
+          "PROCESSING": "מגדיר את חשבון וואטסאפ ביזנס שלך",
+          "LOADING_SDK": "טוען את Facebook SDK...",
+          "CANCELLED": "הרשמת וואטסאפ בוטלה",
+          "SUCCESS_TITLE": "חשבון וואטסאפ ביזנס חובר בהצלחה!",
+          "WAITING_FOR_AUTH": "ממתין לאימות...",
+          "INVALID_BUSINESS_DATA": "נתוני עסק לא תקינים התקבלו מ-Facebook. אנא נסה שוב.",
+          "SIGNUP_ERROR": "אירעה שגיאה בהרשמה",
+          "AUTH_NOT_COMPLETED": "האימות לא הושלם. אנא התחל את התהליך מחדש.",
+          "SUCCESS_FALLBACK": "חשבון וואטסאפ ביזנס הוגדר בהצלחה"
         },
         "API": {
           "ERROR_MESSAGE": "לא הצלחנו לשמור את ערוץ הוואטסאפ"
         }
       },
       "VOICE": {
-        "TITLE": "Voice Channel",
-        "DESC": "Integrate Twilio Voice and start supporting your customers via phone calls.",
+        "TITLE": "ערוץ קול",
+        "DESC": "שלב את Twilio Voice והתחל לתמוך בלקוחות שלך באמצעות שיחות טלפון.",
         "PHONE_NUMBER": {
           "LABEL": "מספר טלפון",
-          "PLACEHOLDER": "Enter your phone number (e.g. +1234567890)",
-          "ERROR": "Please provide a valid phone number in E.164 format (e.g. +1234567890)"
+          "PLACEHOLDER": "הזן את מספר הטלפון שלך (למשל: +1234567890)",
+          "ERROR": "נא ספק מספר טלפון תקני בפורמט E.164 (למשל: +1234567890)"
         },
         "TWILIO": {
           "ACCOUNT_SID": {
             "LABEL": "חשבון SID",
-            "PLACEHOLDER": "Enter your Twilio Account SID",
-            "REQUIRED": "Account SID is required"
+            "PLACEHOLDER": "הזן את חשבון SID של Twilio שלך",
+            "REQUIRED": "חשבון SID הוא שדה חובה"
           },
           "AUTH_TOKEN": {
-            "LABEL": "Auth Token",
-            "PLACEHOLDER": "Enter your Twilio Auth Token",
-            "REQUIRED": "Auth Token is required"
+            "LABEL": "אסימון אימות",
+            "PLACEHOLDER": "הזן את אסימון האימות של Twilio שלך",
+            "REQUIRED": "אסימון אימות הוא שדה חובה"
           },
           "API_KEY_SID": {
             "LABEL": "API Key SID",
-            "PLACEHOLDER": "Enter your Twilio API Key SID",
-            "REQUIRED": "API Key SID is required"
+            "PLACEHOLDER": "הזן את API Key SID של Twilio שלך",
+            "REQUIRED": "API Key SID הוא שדה חובה"
           },
           "API_KEY_SECRET": {
             "LABEL": "API Key Secret",
-            "PLACEHOLDER": "Enter your Twilio API Key Secret",
-            "REQUIRED": "API Key Secret is required"
+            "PLACEHOLDER": "הזן את API Key Secret של Twilio שלך",
+            "REQUIRED": "API Key Secret הוא שדה חובה"
           }
         },
         "CONFIGURATION": {
           "TWILIO_VOICE_URL_TITLE": "Twilio Voice URL",
-          "TWILIO_VOICE_URL_SUBTITLE": "Configure this URL as the Voice URL on your Twilio phone number and TwiML App.",
+          "TWILIO_VOICE_URL_SUBTITLE": "הגדר כתובת URL זו כ-Voice URL במספר הטלפון שלך ב-Twilio וב-TwiML App.",
           "TWILIO_STATUS_URL_TITLE": "Twilio Status Callback URL",
-          "TWILIO_STATUS_URL_SUBTITLE": "Configure this URL as the Status Callback URL on your Twilio phone number."
+          "TWILIO_STATUS_URL_SUBTITLE": "הגדר כתובת URL זו כ-Status Callback URL במספר הטלפון שלך ב-Twilio."
         },
-        "SUBMIT_BUTTON": "Create Voice Channel",
+        "SUBMIT_BUTTON": "צור ערוץ קול",
         "API": {
-          "ERROR_MESSAGE": "We were not able to create the voice channel"
+          "ERROR_MESSAGE": "לא הצלחנו ליצור את ערוץ הקול"
         }
       },
       "API_CHANNEL": {
@@ -353,17 +353,17 @@
         },
         "WEBHOOK_URL": {
           "LABEL": "כתובת אתר של Webhook",
-          "SUBTITLE": "Configure the URL where you want to receive callbacks on events.",
+          "SUBTITLE": "הגדר את כתובת האתר אליה תרצה לקבל קריאות חזרה על אירועים.",
           "PLACEHOLDER": "כתובת אתר של Webhook"
         },
         "SUBMIT_BUTTON": "צור ערוץ API",
         "API": {
-          "ERROR_MESSAGE": "לא הצלחנו לשמור את ערוץ ה API"
+          "ERROR_MESSAGE": "לא הצלחנו לשמור את ערוץ ה-API"
         }
       },
       "EMAIL_CHANNEL": {
         "TITLE": "ערוץ דוא\"ל",
-        "DESC": "Integrate your email inbox.",
+        "DESC": "שלב את תיבת הדואר הנכנס שלך.",
         "CHANNEL_NAME": {
           "LABEL": "שם הערוץ",
           "PLACEHOLDER": "נא להזין שם ערוץ",
@@ -371,7 +371,7 @@
         },
         "EMAIL": {
           "LABEL": "אימייל",
-          "SUBTITLE": "אימייל לאן הלקוחות שלך שולחים לך כרטיסי תמיכה",
+          "SUBTITLE": "האימייל אליו הלקוחות שלך שולחים פניות תמיכה",
           "PLACEHOLDER": "אימייל"
         },
         "SUBMIT_BUTTON": "צור ערוץ דוא\"ל",
@@ -382,7 +382,7 @@
       },
       "LINE_CHANNEL": {
         "TITLE": "ערוץ LINE",
-        "DESC": "השתלב עם ערוץ LINE והתחיל לתמוך בלקוחות שלך.",
+        "DESC": "השתלב עם ערוץ LINE והתחל לתמוך בלקוחות שלך.",
         "CHANNEL_NAME": {
           "LABEL": "שם הערוץ",
           "PLACEHOLDER": "נא להזין שם ערוץ",
@@ -429,7 +429,7 @@
       "AGENTS": {
         "TITLE": "סוכנים",
         "DESC": "כאן תוכל להוסיף סוכנים לניהול תיבת הדואר הנכנס החדשה שלך. רק לסוכנים שנבחרו אלה תהיה גישה לתיבת הדואר הנכנס שלך. סוכנים שאינם חלק מתיבת הדואר הנכנס הזו לא יוכלו לראות או להגיב להודעות בתיבת הדואר הנכנס הזו כאשר הם נכנסים. <br> <b>נ. ב.:</b> כמנהל מערכת, אם אתה זקוק לגישה לכל תיבות הדואר הנכנס, עליך להוסיף את עצמך כסוכן לכל תיבות הדואר הנכנס שאתה יוצר.",
-        "VALIDATION_ERROR": "Add at least one agent to your new Inbox",
+        "VALIDATION_ERROR": "הוסף לפחות סוכן אחד לתיבת הדואר הנכנס החדשה שלך",
         "PICK_AGENTS": "בחר סוכנים לתיבת הדואר הנכנס"
       },
       "DETAILS": {
@@ -446,25 +446,25 @@
       },
       "MICROSOFT": {
         "TITLE": "אימייל של מיקרוסופט",
-        "DESCRIPTION": "לחץ על Sign in with Microsoft בכדי להתחיל. אתה תופנה למסך ההתחברות של Microsoft. ברגע שתאשר את בקשת ההרשאות, תופנה חזרה להגדרות תיבת הדואר.",
+        "DESCRIPTION": "לחץ על 'התחבר עם מיקרוסופט' כדי להתחיל. תופנה למסך ההתחברות של מיקרוסופט. לאחר שתאשר את ההרשאות המבוקשות, תופנה חזרה לשלב יצירת תיבת הדואר הנכנס.",
         "EMAIL_PLACEHOLDER": "הכנס כתובת דוא\"ל",
-        "SIGN_IN": "Sign in with Microsoft",
+        "SIGN_IN": "התחבר עם מיקרוסופט",
         "ERROR_MESSAGE": "אירעה שגיאה בהתחברות ל- Microsoft, אנא נסה שנית"
       },
       "GOOGLE": {
-        "TITLE": "Google Email",
-        "DESCRIPTION": "Click on the Sign in with Google button to get started. You will redirected to the email sign in page. Once you accept the requested permissions, you would be redirected back to the inbox creation step.",
-        "SIGN_IN": "Sign in with Google",
+        "TITLE": "אימייל של גוגל",
+        "DESCRIPTION": "לחץ על 'התחבר עם גוגל' כדי להתחיל. תופנה למסך ההתחברות של גוגל. לאחר שתאשר את ההרשאות המבוקשות, תופנה חזרה לשלב יצירת תיבת הדואר הנכנס.",
+        "SIGN_IN": "התחבר עם גוגל",
         "EMAIL_PLACEHOLDER": "הכנס כתובת דוא\"ל",
-        "ERROR_MESSAGE": "There was an error connecting to Google, please try again"
+        "ERROR_MESSAGE": "אירעה שגיאה בהתחברות ל-Google, אנא נסה שנית"
       }
     },
     "DETAILS": {
       "LOADING_FB": "מאמת אותך עם פייסבוק...",
-      "ERROR_FB_LOADING": "Error loading Facebook SDK. Please disable any ad-blockers and try again from a different browser.",
+      "ERROR_FB_LOADING": "שגיאה בטעינת Facebook SDK. אנא השבת חוסמי פרסומות ונסה שוב מדפדפן אחר.",
       "ERROR_FB_AUTH": "משהו השתבש, אנא רענן את הדף...",
-      "ERROR_FB_UNAUTHORIZED": "You're not authorized to perform this action. ",
-      "ERROR_FB_UNAUTHORIZED_HELP": "Please ensure you have access to the Facebook page with full control. You can read more about Facebook roles <a href=\" https://www.facebook.com/help/187316341316631\">here</a>.",
+      "ERROR_FB_UNAUTHORIZED": "אין לך הרשאה לבצע פעולה זו.",
+      "ERROR_FB_UNAUTHORIZED_HELP": "אנא ודא שיש לך גישה לדף הפייסבוק עם שליטה מלאה. תוכל לקרוא עוד על תפקידי פייסבוק <a href=\" https://www.facebook.com/help/187316341316631\">כאן</a>.",
       "CREATING_CHANNEL": "יוצר את תיבת הדואר הנכנס שלך...",
       "TITLE": "הגדר את פרטי תיבת הדואר הנכנס",
       "DESC": ""
@@ -497,21 +497,21 @@
         "DISABLED": "כבוי"
       },
       "SENDER_NAME_SECTION": {
-        "TITLE": "Sender name",
-        "SUB_TEXT": "Select the name shown to your customer when they receive emails from your agents.",
-        "FOR_EG": "For eg:",
+        "TITLE": "שם השולח",
+        "SUB_TEXT": "בחר את השם שיוצג ללקוח שלך כאשר הוא מקבל מיילים מהנציגים שלך.",
+        "FOR_EG": "לדוגמה:",
         "FRIENDLY": {
-          "TITLE": "Friendly",
+          "TITLE": "ידידותי",
           "FROM": "מ",
-          "SUBTITLE": "Add the name of the agent who sent the reply in the sender name to make it friendly."
+          "SUBTITLE": "הוסף את שם הנציג ששלח את התשובה בשם השולח כדי להפוך אותו לידידותי."
         },
         "PROFESSIONAL": {
-          "TITLE": "Professional",
-          "SUBTITLE": "Use only the configured business name as the sender name in the email header."
+          "TITLE": "מקצועי",
+          "SUBTITLE": "השתמש רק בשם העסק שהוגדר כשם השולח בכותרת המייל."
         },
         "BUSINESS_NAME": {
-          "BUTTON_TEXT": "+ Configure your business name",
-          "PLACEHOLDER": "Enter your business name",
+          "BUTTON_TEXT": "+ הגדר את שם העסק שלך",
+          "PLACEHOLDER": "הזן את שם העסק שלך",
           "SAVE_BUTTON_TEXT": "שמור"
         }
       },
@@ -569,70 +569,70 @@
     },
     "SETTINGS_POPUP": {
       "MESSENGER_HEADING": "סקריפט מסנג'ר",
-      "MESSENGER_SUB_HEAD": "מקם את הכפתור הזה בתוך תג הגוף שלך",
-      "INBOX_AGENTS": "סוכנים",
-      "INBOX_AGENTS_SUB_TEXT": "הוסף או הסר נציגים מתיבת הדואר הנכנס הזו",
+      "MESSENGER_SUB_HEAD": "מקם את הכפתור הזה בתוך תג ה-body שלך",
+      "INBOX_AGENTS": "נציגים",
+      "INBOX_AGENTS_SUB_TEXT": "הוסף או הסר נציגים מתיבת דואר נכנס זו",
       "AGENT_ASSIGNMENT": "שיוך שיחה",
-      "AGENT_ASSIGNMENT_SUB_TEXT": "עדכן הגדרות שיוך שיחה",
+      "AGENT_ASSIGNMENT_SUB_TEXT": "עדכן את הגדרות שיוך השיחה",
       "UPDATE": "עדכן",
       "ENABLE_EMAIL_COLLECT_BOX": "אפשר תיבת איסוף דוא\"ל",
       "ENABLE_EMAIL_COLLECT_BOX_SUB_TEXT": "הפעל או השבת את תיבת איסוף הדוא\"ל בשיחה חדשה",
       "AUTO_ASSIGNMENT": "אפשר הקצאה אוטומטית",
-      "SENDER_NAME_SECTION": "Enable Agent Name in Email",
-      "SENDER_NAME_SECTION_TEXT": "Enable/Disable showing Agent's name in email, if disabled it will show business name",
-      "ENABLE_CONTINUITY_VIA_EMAIL": "אפשר המשך שיחה באמצעות הדוא\"ל",
-      "ENABLE_CONTINUITY_VIA_EMAIL_SUB_TEXT": "שיחות ימשיכו באמצעות הדוא\"ל אם לאיש הקשר קיימת כתובת דוא\"ל תקנית.",
+      "SENDER_NAME_SECTION": "אפשר שם נציג בדוא\"ל",
+      "SENDER_NAME_SECTION_TEXT": "אפשר/השבת הצגת שם הנציג בדוא\"ל, אם מושבת יוצג שם העסק",
+      "ENABLE_CONTINUITY_VIA_EMAIL": "אפשר המשך שיחה באמצעות דוא\"ל",
+      "ENABLE_CONTINUITY_VIA_EMAIL_SUB_TEXT": "שיחות ימשיכו באמצעות דוא\"ל אם לאיש הקשר קיימת כתובת דוא\"ל תקינה.",
       "LOCK_TO_SINGLE_CONVERSATION": "נעל לשיחה בודדת",
-      "LOCK_TO_SINGLE_CONVERSATION_SUB_TEXT": "הפעל או השבת מספר שיחות עבור אותו איש קשר בתיבת הדואר הנכנס הזו",
+      "LOCK_TO_SINGLE_CONVERSATION_SUB_TEXT": "הפעל או השבת מספר שיחות עבור אותו איש קשר בתיבת דואר נכנס זו",
       "INBOX_UPDATE_TITLE": "הגדרות תיבת דואר נכנס",
       "INBOX_UPDATE_SUB_TEXT": "עדכן את הגדרות תיבת הדואר הנכנס שלך",
-      "AUTO_ASSIGNMENT_SUB_TEXT": "אפשר או השבת את ההקצאה האוטומטית של שיחות חדשות לסוכנים שנוספו לתיבת הדואר הנכנס הזו.",
+      "AUTO_ASSIGNMENT_SUB_TEXT": "אפשר או השבת הקצאה אוטומטית של שיחות חדשות לנציגים שנוספו לתיבת דואר נכנס זו.",
       "HMAC_VERIFICATION": "אימות זהות משתמש",
-      "HMAC_DESCRIPTION": "In order to validate the user's identity, you can pass an `identifier_hash` for each user. You can generate a HMAC sha256 hash using the `identifier` with the key shown here.",
-      "HMAC_LINK_TO_DOCS": "You can read more here.",
+      "HMAC_DESCRIPTION": "כדי לאמת את זהות המשתמש, ניתן להעביר `identifier_hash` עבור כל משתמש. ניתן ליצור HMAC sha256 hash באמצעות ה-`identifier` עם המפתח שמוצג כאן.",
+      "HMAC_LINK_TO_DOCS": "ניתן לקרוא עוד כאן.",
       "HMAC_MANDATORY_VERIFICATION": "אכיפת אימות זהות משתמש",
-      "HMAC_MANDATORY_DESCRIPTION": "If enabled, requests missing the `identifier_hash` will be rejected.",
+      "HMAC_MANDATORY_DESCRIPTION": "אם מאופשר, בקשות ללא `identifier_hash` יידחו.",
       "INBOX_IDENTIFIER": "מזהה תיבת דואר נכנס",
-      "INBOX_IDENTIFIER_SUB_TEXT": "השתמש ב-'inbox_identifier' המוצג כאן כדי לאמת את לקוחות ה-API שלך.",
-      "FORWARD_EMAIL_TITLE": "העבר לדואר אלקטרוני",
+      "INBOX_IDENTIFIER_SUB_TEXT": "השתמש ב-'inbox_identifier' שמוצג כאן כדי לאמת את לקוחות ה-API שלך.",
+      "FORWARD_EMAIL_TITLE": "העבר לדוא\"ל",
       "FORWARD_EMAIL_SUB_TEXT": "התחל להעביר את המיילים שלך לכתובת הדוא\"ל הבאה.",
       "ALLOW_MESSAGES_AFTER_RESOLVED": "אפשר הודעות לאחר שהשיחה נפתרה",
       "ALLOW_MESSAGES_AFTER_RESOLVED_SUB_TEXT": "אפשר למשתמשי הקצה לשלוח הודעות גם לאחר פתרון השיחה.",
       "WHATSAPP_SECTION_SUBHEADER": "מפתח API זה משמש לשילוב עם ממשקי ה-API של WhatsApp.",
-      "WHATSAPP_SECTION_UPDATE_SUBHEADER": "Enter the new API key to be used for the integration with the WhatsApp APIs.",
+      "WHATSAPP_SECTION_UPDATE_SUBHEADER": "הזן את מפתח ה-API החדש לשימוש באינטגרציה עם WhatsApp APIs.",
       "WHATSAPP_SECTION_TITLE": "מפתח API",
       "WHATSAPP_SECTION_UPDATE_TITLE": "עדכון מפתח API",
       "WHATSAPP_SECTION_UPDATE_PLACEHOLDER": "הזן את מפתח ה-API החדש כאן",
       "WHATSAPP_SECTION_UPDATE_BUTTON": "עדכן",
-      "WHATSAPP_EMBEDDED_SIGNUP_TITLE": "WhatsApp Embedded Signup",
-      "WHATSAPP_EMBEDDED_SIGNUP_SUBHEADER": "This inbox is connected through WhatsApp embedded signup.",
-      "WHATSAPP_EMBEDDED_SIGNUP_DESCRIPTION": "You can reconfigure this inbox to update your WhatsApp Business settings.",
-      "WHATSAPP_RECONFIGURE_BUTTON": "Reconfigure",
-      "WHATSAPP_CONNECT_TITLE": "Connect to WhatsApp Business",
-      "WHATSAPP_CONNECT_SUBHEADER": "Upgrade to WhatsApp embedded signup for easier management.",
-      "WHATSAPP_CONNECT_DESCRIPTION": "Connect this inbox to WhatsApp Business for enhanced features and easier management.",
+      "WHATSAPP_EMBEDDED_SIGNUP_TITLE": "הרשמה משולבת ל-WhatsApp",
+      "WHATSAPP_EMBEDDED_SIGNUP_SUBHEADER": "תיבת דואר נכנס זו מחוברת דרך הרשמה משולבת ל-WhatsApp.",
+      "WHATSAPP_EMBEDDED_SIGNUP_DESCRIPTION": "ניתן להגדיר מחדש תיבת דואר נכנס זו כדי לעדכן את הגדרות WhatsApp Business.",
+      "WHATSAPP_RECONFIGURE_BUTTON": "הגדר מחדש",
+      "WHATSAPP_CONNECT_TITLE": "התחבר ל-WhatsApp Business",
+      "WHATSAPP_CONNECT_SUBHEADER": "שדרג להרשמה משולבת ל-WhatsApp לניהול קל יותר.",
+      "WHATSAPP_CONNECT_DESCRIPTION": "חבר תיבת דואר נכנס זו ל-WhatsApp Business לקבלת תכונות משופרות וניהול קל יותר.",
       "WHATSAPP_CONNECT_BUTTON": "התחבר",
-      "WHATSAPP_CONNECT_SUCCESS": "Successfully connected to WhatsApp Business!",
-      "WHATSAPP_CONNECT_ERROR": "Failed to connect to WhatsApp Business. Please try again.",
-      "WHATSAPP_RECONFIGURE_SUCCESS": "Successfully reconfigured WhatsApp Business!",
-      "WHATSAPP_RECONFIGURE_ERROR": "Failed to reconfigure WhatsApp Business. Please try again.",
-      "WHATSAPP_APP_ID_MISSING": "WhatsApp App ID is not configured. Please contact your administrator.",
-      "WHATSAPP_CONFIG_ID_MISSING": "WhatsApp Configuration ID is not configured. Please contact your administrator.",
-      "WHATSAPP_LOGIN_CANCELLED": "WhatsApp login was cancelled. Please try again.",
+      "WHATSAPP_CONNECT_SUCCESS": "החיבור ל-WhatsApp Business הצליח!",
+      "WHATSAPP_CONNECT_ERROR": "החיבור ל-WhatsApp Business נכשל. אנא נסה שוב.",
+      "WHATSAPP_RECONFIGURE_SUCCESS": "הגדרת WhatsApp Business עודכנה בהצלחה!",
+      "WHATSAPP_RECONFIGURE_ERROR": "הגדרת WhatsApp Business נכשלה. אנא נסה שוב.",
+      "WHATSAPP_APP_ID_MISSING": "מזהה אפליקציית WhatsApp לא מוגדר. אנא פנה למנהל המערכת.",
+      "WHATSAPP_CONFIG_ID_MISSING": "מזהה תצורת WhatsApp לא מוגדר. אנא פנה למנהל המערכת.",
+      "WHATSAPP_LOGIN_CANCELLED": "התחברות ל-WhatsApp בוטלה. אנא נסה שוב.",
       "WHATSAPP_WEBHOOK_TITLE": "אסימון אימות Webhook",
-      "WHATSAPP_WEBHOOK_SUBHEADER": "This token is used to verify the authenticity of the webhook endpoint.",
-      "WHATSAPP_TEMPLATES_SYNC_TITLE": "Sync Templates",
-      "WHATSAPP_TEMPLATES_SYNC_SUBHEADER": "Manually sync message templates from WhatsApp to update your available templates.",
-      "WHATSAPP_TEMPLATES_SYNC_BUTTON": "Sync Templates",
-      "WHATSAPP_TEMPLATES_SYNC_SUCCESS": "Templates sync initiated successfully. It may take a couple of minutes to update.",
-      "UPDATE_PRE_CHAT_FORM_SETTINGS": "עדכון הגדרות טופס טרום צ'אט"
+      "WHATSAPP_WEBHOOK_SUBHEADER": "אסימון זה משמש לאימות מקוריות נקודת הקצה של ה-webhook.",
+      "WHATSAPP_TEMPLATES_SYNC_TITLE": "סנכרון תבניות",
+      "WHATSAPP_TEMPLATES_SYNC_SUBHEADER": "סנכרן ידנית תבניות הודעה מ-WhatsApp כדי לעדכן את התבניות הזמינות.",
+      "WHATSAPP_TEMPLATES_SYNC_BUTTON": "סנכרן תבניות",
+      "WHATSAPP_TEMPLATES_SYNC_SUCCESS": "סנכרון התבניות החל בהצלחה. ייתכן שיידרשו מספר דקות לעדכון.",
+      "UPDATE_PRE_CHAT_FORM_SETTINGS": "עדכן הגדרות טופס טרום צ'אט"
     },
     "HELP_CENTER": {
-      "LABEL": "Help Center",
-      "PLACEHOLDER": "Select Help Center",
-      "SELECT_PLACEHOLDER": "Select Help Center",
-      "REMOVE": "Remove Help Center",
-      "SUB_TEXT": "Attach a Help Center with the inbox"
+      "LABEL": "מרכז עזרה",
+      "PLACEHOLDER": "בחר מרכז עזרה",
+      "SELECT_PLACEHOLDER": "בחר מרכז עזרה",
+      "REMOVE": "הסר מרכז עזרה",
+      "SUB_TEXT": "צמד מרכז עזרה לתיבת הדואר הנכנס"
     },
     "AUTO_ASSIGNMENT": {
       "MAX_ASSIGNMENT_LIMIT": "מגבלת הקצאה אוטומטית",
@@ -673,28 +673,28 @@
     },
     "CSAT": {
       "TITLE": "אפשר CSAT",
-      "SUBTITLE": "Automatically trigger CSAT surveys at the end of conversations to understand how customers feel about their support experience. Track satisfaction trends and identify areas for improvement over time.",
+      "SUBTITLE": "הפעל סקרי שביעות רצון (CSAT) אוטומטיים בסיום שיחות כדי להבין כיצד הלקוחות מרגישים לגבי חווית התמיכה שלהם. עקוב אחר מגמות שביעות רצון וזיהוי תחומים לשיפור לאורך זמן.",
       "DISPLAY_TYPE": {
-        "LABEL": "Display type"
+        "LABEL": "סוג תצוגה"
       },
       "MESSAGE": {
         "LABEL": "הודעה",
-        "PLACEHOLDER": "Please enter a message to show users with the form"
+        "PLACEHOLDER": "אנא הזן הודעה שתוצג למשתמשים עם הטופס"
       },
       "SURVEY_RULE": {
-        "LABEL": "Survey rule",
-        "DESCRIPTION_PREFIX": "Send the survey if the conversation",
-        "DESCRIPTION_SUFFIX": "any of the labels",
+        "LABEL": "כלל סקר",
+        "DESCRIPTION_PREFIX": "שלח את הסקר אם השיחה",
+        "DESCRIPTION_SUFFIX": "אחת מהתוויות",
         "OPERATOR": {
           "CONTAINS": "מכיל",
           "DOES_NOT_CONTAINS": "לא מכיל"
         },
-        "SELECT_PLACEHOLDER": "select labels"
+        "SELECT_PLACEHOLDER": "בחר תוויות"
       },
-      "NOTE": "Note: CSAT surveys are sent only once per conversation",
+      "NOTE": "הערה: סקרי CSAT נשלחים רק פעם אחת לכל שיחה",
       "API": {
-        "SUCCESS_MESSAGE": "CSAT settings updated successfully",
-        "ERROR_MESSAGE": "We couldn't update CSAT settings. Please try again later."
+        "SUCCESS_MESSAGE": "הגדרות CSAT עודכנו בהצלחה",
+        "ERROR_MESSAGE": "לא הצלחנו לעדכן את הגדרות CSAT. אנא נסה שוב מאוחר יותר."
       }
     },
     "BUSINESS_HOURS": {
@@ -705,7 +705,7 @@
       "UPDATE": "עדכן את הגדרות שעות הפעילות",
       "TOGGLE_AVAILABILITY": "הפעל זמינות עסקית עבור תיבת הדואר הנכנס הזו",
       "UNAVAILABLE_MESSAGE_LABEL": "הודעה לא זמינה למבקרים",
-      "TOGGLE_HELP": "Enabling business availability will show the available hours on live chat widget even if all the agents are offline. Outside available hours visitors can be warned with a message and a pre-chat form.",
+      "TOGGLE_HELP": "הפעלת זמינות עסקית תציג את שעות הפעילות בווידג'ט הצ'אט החי גם אם כל הנציגים אינם זמינים. מחוץ לשעות הפעילות, המבקרים יקבלו הודעה ואפשרות למלא טופס טרום צ'אט.",
       "DAY": {
         "ENABLE": "אפשר זמינות ליום זה",
         "UNAVAILABLE": "אינו זמין",
@@ -721,7 +721,7 @@
       "NOTE_TEXT": "כדי להפעיל SMTP, אנא הגדר את IMAP.",
       "UPDATE": "עדכון הגדרות IMAP",
       "TOGGLE_AVAILABILITY": "הפעל תצורת IMAP עבור תיבת הדואר הנכנס הזו",
-      "TOGGLE_HELP": "Enabling IMAP will help the user to receive email",
+      "TOGGLE_HELP": "הפעלת IMAP תעזור למשתמש לקבל דוא\"ל",
       "EDIT": {
         "SUCCESS_MESSAGE": "הגדרות IMAP עודכנו בהצלחה",
         "ERROR_MESSAGE": "לא ניתן לעדכן הגדרות IMAP"

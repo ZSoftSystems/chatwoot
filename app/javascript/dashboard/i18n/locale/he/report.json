@@ -1,51 +1,51 @@
 {
   "REPORT": {
-    "HEADER": "שיחות",
+    "HEADER": "דוחות",
     "LOADING_CHART": "טוען נתוני תרשים...",
     "NO_ENOUGH_DATA": "לא קיבלנו מספיק נקודות נתונים כדי להפיק דוח, אנא נסה שוב מאוחר יותר.",
     "DOWNLOAD_AGENT_REPORTS": "הורד דוחות סוכן",
-    "DATA_FETCHING_FAILED": "Failed to fetch data, please try again later.",
-    "SUMMARY_FETCHING_FAILED": "Failed to fetch summary, please try again later.",
+    "DATA_FETCHING_FAILED": "נכשל באחזור נתונים, אנא נסה שוב מאוחר יותר.",
+    "SUMMARY_FETCHING_FAILED": "נכשל באחזור סיכום, אנא נסה שוב מאוחר יותר.",
     "METRICS": {
       "CONVERSATIONS": {
         "NAME": "שיחות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "INCOMING_MESSAGES": {
         "NAME": "הודעות נכנסות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "OUTGOING_MESSAGES": {
         "NAME": "הודעות יוצאות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "FIRST_RESPONSE_TIME": {
         "NAME": "זמן תגובה ראשון",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
         "TOOLTIP_TEXT": "זמן התגובה הראשון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_TIME": {
-        "NAME": "זמן רזולוציה",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
-        "TOOLTIP_TEXT": "זמן הרזולוציה הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
+        "NAME": "זמן פתרון",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
+        "TOOLTIP_TEXT": "זמן הפתרון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_COUNT": {
-        "NAME": "ספירת רזולוציות",
-        "DESC": "( Total )"
+        "NAME": "ספירת פתרונות",
+        "DESC": "( סה\"כ )"
       },
       "BOT_RESOLUTION_COUNT": {
-        "NAME": "ספירת רזולוציות",
-        "DESC": "( Total )"
+        "NAME": "ספירת פתרונות בוט",
+        "DESC": "( סה\"כ )"
       },
       "BOT_HANDOFF_COUNT": {
-        "NAME": "Handoff Count",
-        "DESC": "( Total )"
+        "NAME": "ספירת העברות בוט",
+        "DESC": "( סה\"כ )"
       },
       "REPLY_TIME": {
-        "NAME": "Customer waiting time",
-        "TOOLTIP_TEXT": "Waiting time is {metricValue} (based on {conversationCount} replies)",
+        "NAME": "זמן המתנה של לקוח",
+        "TOOLTIP_TEXT": "זמן ההמתנה הוא {metricValue} (מבוסס על {conversationCount} תגובות)",
         "DESC": ""
       }
     },
@@ -54,14 +54,14 @@
       "LAST_30_DAYS": "30 הימים האחרונים",
       "LAST_3_MONTHS": "3 החודשים האחרונים",
       "LAST_6_MONTHS": "6 החודשים האחרונים",
-      "LAST_YEAR": "שנה שעברה",
+      "LAST_YEAR": "השנה שעברה",
       "CUSTOM_DATE_RANGE": "טווח תאריכים מותאם אישית"
     },
     "CUSTOM_DATE_RANGE": {
-      "CONFIRM": "להגיש מועמדות",
+      "CONFIRM": "אשר",
       "PLACEHOLDER": "בחר טווח תאריכים"
     },
-    "GROUP_BY_FILTER_DROPDOWN_LABEL": "קבוצה לפי",
+    "GROUP_BY_FILTER_DROPDOWN_LABEL": "קבץ לפי",
     "DURATION_FILTER_LABEL": "משך",
     "GROUPING_OPTIONS": {
       "DAY": "יום",
@@ -115,17 +115,17 @@
     ],
     "BUSINESS_HOURS": "שעות פעילות",
     "FILTER_ACTIONS": {
-      "CLEAR_FILTER": "Clear filter",
+      "CLEAR_FILTER": "נקה מסנן",
       "EMPTY_LIST": "לא נמצאו תוצאות"
     },
     "PAGINATION": {
-      "RESULTS": "Showing {start} to {end} of {total} results",
-      "PER_PAGE_TEMPLATE": "{size} / page"
+      "RESULTS": "מציג {start} עד {end} מתוך {total} תוצאות",
+      "PER_PAGE_TEMPLATE": "{size} / עמוד"
     }
   },
   "AGENT_REPORTS": {
     "HEADER": "סקירה כללית של סוכנים",
-    "DESCRIPTION": "Easily track agent performance with key metrics such as conversations, response times, resolution times, and resolved cases. Click an agent’s name to learn more.",
+    "DESCRIPTION": "עקוב בקלות אחר ביצועי הסוכנים עם מדדים מרכזיים כגון שיחות, זמני תגובה, זמני פתרון ומקרים שנפתרו. לחץ על שם סוכן לפרטים נוספים.",
     "LOADING_CHART": "טוען נתוני תרשים...",
     "NO_ENOUGH_DATA": "לא קיבלנו מספיק נקודות נתונים כדי להפיק דוח, אנא נסה שוב מאוחר יותר.",
     "DOWNLOAD_AGENT_REPORTS": "הורד דוחות סוכן",
@@ -133,31 +133,31 @@
     "METRICS": {
       "CONVERSATIONS": {
         "NAME": "שיחות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "INCOMING_MESSAGES": {
         "NAME": "הודעות נכנסות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "OUTGOING_MESSAGES": {
         "NAME": "הודעות יוצאות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "FIRST_RESPONSE_TIME": {
         "NAME": "זמן תגובה ראשון",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
         "TOOLTIP_TEXT": "זמן התגובה הראשון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_TIME": {
-        "NAME": "זמן רזולוציה",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
-        "TOOLTIP_TEXT": "זמן הרזולוציה הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
+        "NAME": "זמן פתרון",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
+        "TOOLTIP_TEXT": "זמן הפתרון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_COUNT": {
-        "NAME": "ספירת רזולוציות",
-        "DESC": "( Total )"
+        "NAME": "ספירת פתרונות",
+        "DESC": "( סה\"כ )"
       }
     },
     "DATE_RANGE": [
@@ -179,7 +179,7 @@
       },
       {
         "id": 4,
-        "name": "שנה שעברה"
+        "name": "השנה שעברה"
       },
       {
         "id": 5,
@@ -187,13 +187,13 @@
       }
     ],
     "CUSTOM_DATE_RANGE": {
-      "CONFIRM": "להגיש מועמדות",
+      "CONFIRM": "אשר",
       "PLACEHOLDER": "בחר טווח תאריכים"
     }
   },
   "LABEL_REPORTS": {
     "HEADER": "סקירת תוויות",
-    "DESCRIPTION": "Track label performance with key metrics including conversations, response times, resolution times, and resolved cases. Click a label name for detailed insights.",
+    "DESCRIPTION": "עקוב אחר ביצועי תוויות עם מדדים מרכזיים כולל שיחות, זמני תגובה, זמני פתרון ומקרים שנפתרו. לחץ על שם תווית לתובנות מפורטות.",
     "LOADING_CHART": "טוען נתוני תרשים...",
     "NO_ENOUGH_DATA": "לא קיבלנו מספיק נקודות נתונים כדי להפיק דוח, אנא נסה שוב מאוחר יותר.",
     "DOWNLOAD_LABEL_REPORTS": "הורד דוחות תווית",
@@ -201,31 +201,31 @@
     "METRICS": {
       "CONVERSATIONS": {
         "NAME": "שיחות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "INCOMING_MESSAGES": {
         "NAME": "הודעות נכנסות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "OUTGOING_MESSAGES": {
         "NAME": "הודעות יוצאות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "FIRST_RESPONSE_TIME": {
         "NAME": "זמן תגובה ראשון",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
         "TOOLTIP_TEXT": "זמן התגובה הראשון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_TIME": {
-        "NAME": "זמן רזולוציה",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
-        "TOOLTIP_TEXT": "זמן הרזולוציה הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
+        "NAME": "זמן פתרון",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
+        "TOOLTIP_TEXT": "זמן הפתרון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_COUNT": {
-        "NAME": "ספירת רזולוציות",
-        "DESC": "( Total )"
+        "NAME": "ספירת פתרונות",
+        "DESC": "( סה\"כ )"
       }
     },
     "DATE_RANGE": [
@@ -247,7 +247,7 @@
       },
       {
         "id": 4,
-        "name": "שנה שעברה"
+        "name": "השנה שעברה"
       },
       {
         "id": 5,
@@ -255,13 +255,13 @@
       }
     ],
     "CUSTOM_DATE_RANGE": {
-      "CONFIRM": "להגיש מועמדות",
+      "CONFIRM": "אשר",
       "PLACEHOLDER": "בחר טווח תאריכים"
     }
   },
   "INBOX_REPORTS": {
     "HEADER": "סקירה כללית של תיבת הדואר הנכנס",
-    "DESCRIPTION": "Quickly view your inbox performance with key metrics like conversations, response times, resolution times, and resolved cases—all in one place. Click an inbox name for more details.",
+    "DESCRIPTION": "צפה במהירות בביצועי תיבת הדואר שלך עם מדדים מרכזיים כמו שיחות, זמני תגובה, זמני פתרון ומקרים שנפתרו - הכל במקום אחד. לחץ על שם תיבת דואר לפרטים נוספים.",
     "LOADING_CHART": "טוען נתוני תרשים...",
     "NO_ENOUGH_DATA": "לא קיבלנו מספיק נקודות נתונים כדי להפיק דוח, אנא נסה שוב מאוחר יותר.",
     "DOWNLOAD_INBOX_REPORTS": "הורד דוחות תיבת דואר נכנס",
@@ -269,31 +269,31 @@
     "METRICS": {
       "CONVERSATIONS": {
         "NAME": "שיחות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "INCOMING_MESSAGES": {
         "NAME": "הודעות נכנסות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "OUTGOING_MESSAGES": {
         "NAME": "הודעות יוצאות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "FIRST_RESPONSE_TIME": {
         "NAME": "זמן תגובה ראשון",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
         "TOOLTIP_TEXT": "זמן התגובה הראשון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_TIME": {
-        "NAME": "זמן רזולוציה",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
-        "TOOLTIP_TEXT": "זמן הרזולוציה הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
+        "NAME": "זמן פתרון",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
+        "TOOLTIP_TEXT": "זמן הפתרון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_COUNT": {
-        "NAME": "ספירת רזולוציות",
-        "DESC": "( Total )"
+        "NAME": "ספירת פתרונות",
+        "DESC": "( סה\"כ )"
       }
     },
     "DATE_RANGE": [
@@ -315,7 +315,7 @@
       },
       {
         "id": 4,
-        "name": "שנה שעברה"
+        "name": "השנה שעברה"
       },
       {
         "id": 5,
@@ -323,45 +323,45 @@
       }
     ],
     "CUSTOM_DATE_RANGE": {
-      "CONFIRM": "להגיש מועמדות",
+      "CONFIRM": "אשר",
       "PLACEHOLDER": "בחר טווח תאריכים"
     }
   },
   "TEAM_REPORTS": {
     "HEADER": "סקירת צוות",
-    "DESCRIPTION": "Get a snapshot of your team’s performance with essential metrics, including conversations, response times, resolution times, and resolved cases. Click a team name for more details.",
+    "DESCRIPTION": "קבל תמונת מצב של ביצועי הצוות שלך עם מדדים חיוניים, כולל שיחות, זמני תגובה, זמני פתרון ומקרים שנפתרו. לחץ על שם צוות לפרטים נוספים.",
     "LOADING_CHART": "טוען נתוני תרשים...",
     "NO_ENOUGH_DATA": "לא קיבלנו מספיק נקודות נתונים כדי להפיק דוח, אנא נסה שוב מאוחר יותר.",
     "DOWNLOAD_TEAM_REPORTS": "הורד דוחות צוות",
-    "FILTER_DROPDOWN_LABEL": "תבחר קבוצה",
+    "FILTER_DROPDOWN_LABEL": "בחר קבוצה",
     "METRICS": {
       "CONVERSATIONS": {
         "NAME": "שיחות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "INCOMING_MESSAGES": {
         "NAME": "הודעות נכנסות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "OUTGOING_MESSAGES": {
         "NAME": "הודעות יוצאות",
-        "DESC": "( Total )"
+        "DESC": "( סה\"כ )"
       },
       "FIRST_RESPONSE_TIME": {
         "NAME": "זמן תגובה ראשון",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
         "TOOLTIP_TEXT": "זמן התגובה הראשון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_TIME": {
-        "NAME": "זמן רזולוציה",
-        "DESC": "( Avg )",
-        "INFO_TEXT": "מספר כולל של שיחות המשמשות לחישוב:",
-        "TOOLTIP_TEXT": "זמן הרזולוציה הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
+        "NAME": "זמן פתרון",
+        "DESC": "( ממוצע )",
+        "INFO_TEXT": "מספר כולל של שיחות לחישוב:",
+        "TOOLTIP_TEXT": "זמן הפתרון הוא {metricValue} (מבוסס על {conversationCount} שיחות)"
       },
       "RESOLUTION_COUNT": {
-        "NAME": "ספירת רזולוציות",
-        "DESC": "( Total )"
+        "NAME": "ספירת פתרונות",
+        "DESC": "( סה\"כ )"
       }
     },
     "DATE_RANGE": [
@@ -383,7 +383,7 @@
       },
       {
         "id": 4,
-        "name": "שנה שעברה"
+        "name": "השנה שעברה"
       },
       {
         "id": 5,
@@ -391,15 +391,15 @@
       }
     ],
     "CUSTOM_DATE_RANGE": {
-      "CONFIRM": "להגיש מועמדות",
+      "CONFIRM": "אשר",
       "PLACEHOLDER": "בחר טווח תאריכים"
     }
   },
   "CSAT_REPORTS": {
-    "HEADER": "דוחות CSAT",
-    "NO_RECORDS": "אין תשובות לסקר CSAT זמינות.",
-    "DOWNLOAD": "הורד דוחות CSAT",
-    "DOWNLOAD_FAILED": "Failed to download CSAT Reports",
+    "HEADER": "דוחות שביעות רצון לקוחות",
+    "NO_RECORDS": "אין תשובות לסקר שביעות רצון לקוחות זמינות.",
+    "DOWNLOAD": "הורד דוחות שביעות רצון לקוחות",
+    "DOWNLOAD_FAILED": "נכשל בהורדת דוחות שביעות רצון לקוחות",
     "FILTERS": {
       "AGENTS": {
         "PLACEHOLDER": "בחר סוכנים"
@@ -407,7 +407,7 @@
     },
     "TABLE": {
       "HEADER": {
-        "CONTACT_NAME": "איש קשר",
+        "CONTACT_NAME": "שם איש קשר",
         "AGENT_NAME": "סוכן מוקצה",
         "RATING": "דירוג",
         "FEEDBACK_TEXT": "הערת משוב"
@@ -424,77 +424,77 @@
       },
       "RESPONSE_RATE": {
         "LABEL": "שיעור תגובה",
-        "TOOLTIP": "מספר כולל של תגובות / מספר כולל של הודעות סקר CSAT שנשלחו * 100"
+        "TOOLTIP": "מספר כולל של תגובות / מספר כולל של הודעות סקר שנשלחו * 100"
       }
     }
   },
   "BOT_REPORTS": {
-    "HEADER": "Bot Reports",
+    "HEADER": "דוחות בוט",
     "METRIC": {
       "TOTAL_CONVERSATIONS": {
-        "LABEL": "No. of Conversations",
-        "TOOLTIP": "Total number of conversations handled by the bot"
+        "LABEL": "מספר שיחות",
+        "TOOLTIP": "מספר כולל של שיחות שטופלו על ידי הבוט"
       },
       "TOTAL_RESPONSES": {
-        "LABEL": "Total Responses",
-        "TOOLTIP": "Total number of responses sent by the bot"
+        "LABEL": "סה\"כ תגובות",
+        "TOOLTIP": "מספר כולל של תגובות שנשלחו על ידי הבוט"
       },
       "RESOLUTION_RATE": {
-        "LABEL": "Resolution Rate",
-        "TOOLTIP": "Total number of conversations resolved by the bot / Total number of conversations handled by the bot * 100"
+        "LABEL": "שיעור פתרון",
+        "TOOLTIP": "מספר כולל של שיחות שנפתרו על ידי הבוט / מספר כולל של שיחות שטופלו על ידי הבוט * 100"
       },
       "HANDOFF_RATE": {
-        "LABEL": "Handoff Rate",
-        "TOOLTIP": "Total number of conversations handed off to agents / Total number of conversations handled by the bot * 100"
+        "LABEL": "שיעור העברה",
+        "TOOLTIP": "מספר כולל של שיחות שהועברו לסוכנים / מספר כולל של שיחות שטופלו על ידי הבוט * 100"
       }
     }
   },
   "OVERVIEW_REPORTS": {
     "HEADER": "סקירה כללית",
-    "LIVE": "לחיות",
+    "LIVE": "חי",
     "ACCOUNT_CONVERSATIONS": {
       "HEADER": "שיחות פתוחות",
       "LOADING_MESSAGE": "טוען מדדי שיחה...",
-      "OPEN": "פתח",
+      "OPEN": "פתוח",
       "UNATTENDED": "ללא השגחה",
-      "UNASSIGNED": "לא הוקצתה",
-      "PENDING": "ממתין ל"
+      "UNASSIGNED": "לא הוקצה",
+      "PENDING": "ממתין"
     },
     "CONVERSATION_HEATMAP": {
-      "HEADER": "תנועת שיחות",
-      "NO_CONVERSATIONS": "בלי שיחות",
+      "HEADER": "מפת חום שיחות",
+      "NO_CONVERSATIONS": "אין שיחות",
       "CONVERSATION": "שיחה {count}",
       "CONVERSATIONS": "{count} שיחות",
-      "DOWNLOAD_REPORT": "Download report"
+      "DOWNLOAD_REPORT": "הורד דוח"
     },
     "AGENT_CONVERSATIONS": {
       "HEADER": "שיחות של סוכנים",
-      "LOADING_MESSAGE": "מדדי סוכן טעינה...",
+      "LOADING_MESSAGE": "טוען מדדי סוכן...",
       "NO_AGENTS": "אין שיחות של סוכנים",
       "TABLE_HEADER": {
         "AGENT": "סוכן",
-        "OPEN": "פתח",
+        "OPEN": "פתוח",
         "UNATTENDED": "ללא השגחה",
-        "STATUS": "מצב"
+        "STATUS": "סטטוס"
       }
     },
     "TEAM_CONVERSATIONS": {
-      "ALL_TEAMS": "All Teams",
-      "HEADER": "Conversations by teams",
-      "LOADING_MESSAGE": "Loading team metrics...",
-      "NO_TEAMS": "There is no data available",
+      "ALL_TEAMS": "כל הצוותים",
+      "HEADER": "שיחות לפי צוותים",
+      "LOADING_MESSAGE": "טוען מדדי צוות...",
+      "NO_TEAMS": "אין נתונים זמינים",
       "TABLE_HEADER": {
         "TEAM": "צוות",
-        "OPEN": "פתח",
+        "OPEN": "פתוח",
         "UNATTENDED": "ללא השגחה",
-        "STATUS": "מצב"
+        "STATUS": "סטטוס"
       }
     },
     "AGENT_STATUS": {
       "HEADER": "סטטוס סוכן",
       "ONLINE": "מחובר",
       "BUSY": "עסוק",
-      "OFFLINE": "לא מחובר"
+      "OFFLINE": "מנותק"
     }
   },
   "DAYS_OF_WEEK": {
@@ -503,68 +503,68 @@
     "TUESDAY": "יום שלישי",
     "WEDNESDAY": "יום רביעי",
     "THURSDAY": "יום חמישי",
-    "FRIDAY": "שישי",
+    "FRIDAY": "יום שישי",
     "SATURDAY": "יום שבת"
   },
   "SLA_REPORTS": {
-    "HEADER": "SLA Reports",
-    "NO_RECORDS": "SLA applied conversations are not available.",
-    "LOADING": "Loading SLA data...",
-    "DOWNLOAD_SLA_REPORTS": "Download SLA reports",
-    "DOWNLOAD_FAILED": "Failed to download SLA Reports",
+    "HEADER": "דוחות SLA",
+    "NO_RECORDS": "אין שיחות עם SLA זמינות.",
+    "LOADING": "טוען נתוני SLA...",
+    "DOWNLOAD_SLA_REPORTS": "הורד דוחות SLA",
+    "DOWNLOAD_FAILED": "נכשל בהורדת דוחות SLA",
     "DROPDOWN": {
       "ADD_FIlTER": "הוסף מסנן",
-      "CLEAR_ALL": "Clear all",
-      "CLEAR_FILTER": "Clear filter",
+      "CLEAR_ALL": "נקה הכל",
+      "CLEAR_FILTER": "נקה מסנן",
       "EMPTY_LIST": "לא נמצאו תוצאות",
-      "NO_FILTER": "No filters available",
-      "SEARCH": "Search filter",
+      "NO_FILTER": "אין מסננים זמינים",
+      "SEARCH": "חפש מסנן",
       "INPUT_PLACEHOLDER": {
-        "SLA": "SLA name",
-        "AGENTS": "Agent name",
-        "INBOXES": "Inbox name",
-        "LABELS": "שם התווית",
+        "SLA": "שם SLA",
+        "AGENTS": "שם סוכן",
+        "INBOXES": "שם תיבת דואר",
+        "LABELS": "שם תווית",
         "TEAMS": "שם קבוצה"
       },
-      "SLA": "SLA Policy",
-      "INBOXES": "תיבת הדואר הנכנס",
+      "SLA": "מדיניות SLA",
+      "INBOXES": "תיבת דואר נכנס",
       "AGENTS": "סוכן",
       "LABELS": "תווית",
       "TEAMS": "צוות"
     },
-    "WITH": "with",
+    "WITH": "עם",
     "METRICS": {
       "HIT_RATE": {
-        "LABEL": "Hit Rate",
-        "TOOLTIP": "Percentage of SLAs created were completed successfully"
+        "LABEL": "שיעור עמידה",
+        "TOOLTIP": "אחוז ה-SLA שבוצעו בהצלחה"
       },
       "NO_OF_MISSES": {
-        "LABEL": "Number of Misses",
-        "TOOLTIP": "Total SLA misses in a certain period"
+        "LABEL": "מספר החמצות",
+        "TOOLTIP": "סה\"כ החמצות SLA בתקופה מסוימת"
       },
       "NO_OF_CONVERSATIONS": {
-        "LABEL": "Number of Conversations",
-        "TOOLTIP": "Total number of conversations with SLA"
+        "LABEL": "מספר שיחות",
+        "TOOLTIP": "סה\"כ שיחות עם SLA"
       }
     },
     "TABLE": {
       "HEADER": {
-        "POLICY": "Policy",
+        "POLICY": "מדיניות",
         "CONVERSATION": "שיחה",
         "AGENT": "סוכן"
       },
-      "VIEW_DETAILS": "View Details"
+      "VIEW_DETAILS": "הצג פרטים"
     }
   },
   "SUMMARY_REPORTS": {
-    "INBOX": "תיבת הדואר הנכנס",
+    "INBOX": "תיבת דואר נכנס",
     "AGENT": "סוכן",
     "TEAM": "צוות",
     "LABEL": "תווית",
-    "AVG_RESOLUTION_TIME": "Avg. Resolution Time",
-    "AVG_FIRST_RESPONSE_TIME": "Avg. First Response Time",
-    "AVG_REPLY_TIME": "Avg. Customer Waiting Time",
-    "RESOLUTION_COUNT": "ספירת רזולוציות",
-    "CONVERSATIONS": "No. of conversations"
+    "AVG_RESOLUTION_TIME": "זמן פתרון ממוצע",
+    "AVG_FIRST_RESPONSE_TIME": "זמן תגובה ראשון ממוצע",
+    "AVG_REPLY_TIME": "זמן המתנה ממוצע ללקוח",
+    "RESOLUTION_COUNT": "ספירת פתרונות",
+    "CONVERSATIONS": "מספר שיחות"
   }
 }

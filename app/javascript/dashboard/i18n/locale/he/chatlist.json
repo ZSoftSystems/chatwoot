@@ -6,7 +6,7 @@
     "LIST": {
       "404": "אין שיחות פעילות בקבוצה הזו."
     },
-    "FAILED_TO_SEND": "Failed to send",
+    "FAILED_TO_SEND": "שליחה נכשלה",
     "TAB_HEADING": "שיחות",
     "MENTION_HEADING": "תיוגים",
     "UNATTENDED_HEADING": "לא מתוכנן",
@@ -37,7 +37,7 @@
       }
     },
     "VIEW_FILTER": "צפה",
-    "SORT_TOOLTIP_LABEL": "Sort conversations",
+    "SORT_TOOLTIP_LABEL": "מיין שיחות",
     "CHAT_SORT": {
       "STATUS": "מצב",
       "ORDER_BY": "Order by"
@@ -48,34 +48,34 @@
         "OLDEST": "נוצר בזמן:"
       },
       "LAST_ACTIVITY": {
-        "NOT_ACTIVE": "Last activity:",
-        "ACTIVE": "Last activity"
+        "NOT_ACTIVE": "פעילות אחרונה:",
+        "ACTIVE": "פעילות אחרונה"
       }
     },
     "SORT_ORDER_ITEMS": {
       "last_activity_at_asc": {
-        "TEXT": "Last activity: Oldest first"
+        "TEXT": "פעילות אחרונה: מהישן לחדש"
       },
       "last_activity_at_desc": {
-        "TEXT": "Last activity: Newest first"
+        "TEXT": "פעילות אחרונה: מהחדש לישן"
       },
       "created_at_desc": {
-        "TEXT": "Created at: Newest first"
+        "TEXT": "נוצר בזמן: מהחדש לישן"
       },
       "created_at_asc": {
-        "TEXT": "Created at: Oldest first"
+        "TEXT": "נוצר בזמן: מהישן לחדש"
       },
       "priority_desc": {
-        "TEXT": "Priority: Highest first"
+        "TEXT": "עדיפות: מהגבוהה לנמוכה"
       },
       "priority_asc": {
-        "TEXT": "Priority: Lowest first"
+        "TEXT": "עדיפות: מהנמוכה לגבוהה"
       },
       "waiting_since_asc": {
-        "TEXT": "Pending Response: Longest first"
+        "TEXT": "ממתין לתגובה: מהארוך לקצר"
       },
       "waiting_since_desc": {
-        "TEXT": "Pending Response: Shortest first"
+        "TEXT": "ממתין לתגובה: מהקצר לארוך"
       }
     },
     "ATTACHMENTS": {
@@ -95,30 +95,30 @@
         "CONTENT": "מיקום"
       },
       "ig_reel": {
-        "CONTENT": "Instagram Reel"
+        "CONTENT": "רילס באינסטגרם"
       },
       "fallback": {
         "CONTENT": "שיתף קישור"
       },
       "contact": {
-        "CONTENT": "Shared contact"
+        "CONTENT": "איש קשר משותף"
       }
     },
     "CHAT_SORT_BY_FILTER": {
-      "TITLE": "Sort conversation",
+      "TITLE": "מיין שיחה",
       "DROPDOWN_TITLE": "מיין לפי",
       "ITEMS": {
         "LATEST": {
-          "NAME": "Last activity at",
-          "LABEL": "Last activity"
+          "NAME": "פעילות אחרונה בזמן",
+          "LABEL": "פעילות אחרונה"
         },
         "CREATED_AT": {
           "NAME": "נוצר בזמן",
           "LABEL": "נוצר בזמן"
         },
         "LAST_USER_MESSAGE_AT": {
-          "NAME": "Last user message at",
-          "LABEL": "Last message"
+            "NAME": "הודעת משתמש אחרונה בזמן",
+            "LABEL": "הודעה אחרונה"
         }
       }
     },
@@ -134,6 +134,6 @@
     "HIDE_QUOTED_TEXT": "הסתר טקסט מצוטט",
     "SHOW_QUOTED_TEXT": "הצג טקסט מצוטט",
     "MESSAGE_READ": "נקרא",
-    "SENDING": "Sending"
+    "SENDING": "שולח"
   }
 }

@@ -3,11 +3,11 @@
     "TITLE": "דרג את השיחה",
     "PLACEHOLDER": "ספר לנו עוד...",
     "RATINGS": {
-      "POOR": "😞 Poor",
-      "FAIR": "😑 Fair",
-      "AVERAGE": "😐 Average",
-      "GOOD": "😀 Good",
-      "EXCELLENT": "😍 Excellent"
+      "POOR": "😞 גרוע",
+      "FAIR": "😑 הוגן",
+      "AVERAGE": "😐 ממוצע",
+      "GOOD": "😀 טוב",
+      "EXCELLENT": "😍 מצוין"
     }
   }
 }

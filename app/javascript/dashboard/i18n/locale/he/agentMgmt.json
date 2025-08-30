@@ -87,13 +87,13 @@
       "CANCEL_BUTTON_TEXT": "ביטול",
       "API": {
         "SUCCESS_MESSAGE": "סוכן עודכן בהצלחה",
-        "ERROR_MESSAGE": "לא ניתן להתחבר לשרת Woot, נסה שוב מאוחר יותר"
+        "ERROR_MESSAGE": "לא ניתן להתחבר לשרת ,נסה שוב מאוחר יותר"
       },
       "PASSWORD_RESET": {
         "ADMIN_RESET_BUTTON": "אפס ססמה",
         "ADMIN_SUCCESS_MESSAGE": "מייל עם הוראות איפוס ססמא נשלח לסוכן",
         "SUCCESS_MESSAGE": "ססמת הסוכן אופסה בהצלחה",
-        "ERROR_MESSAGE": "לא ניתן להתחבר לשרת Woot, נסה שוב מאוחר יותר"
+        "ERROR_MESSAGE": "לא ניתן להתחבר לשרת ,נסה שוב מאוחר יותר"
       }
     },
     "SEARCH": {

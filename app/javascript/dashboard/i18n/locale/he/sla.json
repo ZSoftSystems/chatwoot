@@ -1,37 +1,37 @@
 {
   "SLA": {
-    "HEADER": "Service Level Agreements",
-    "ADD_ACTION": "Add SLA",
-    "ADD_ACTION_LONG": "Create a new SLA Policy",
-    "DESCRIPTION": "Service Level Agreements (SLAs) are contracts that define clear expectations between your team and customers. They establish standards for response and resolution times, creating a framework for accountability and ensures a consistent, high-quality experience.",
-    "LEARN_MORE": "Learn more about SLA",
-    "LOADING": "Fetching SLAs",
+    "HEADER": "הסכמי רמת שירות",
+    "ADD_ACTION": "הוסף SLA",
+    "ADD_ACTION_LONG": "צור מדיניות SLA חדשה",
+    "DESCRIPTION": "הסכמי רמת שירות (SLA) הם חוזים שמגדירים ציפיות ברורות בין הצוות שלך ללקוחות. הם קובעים סטנדרטים לזמני תגובה ופתרון, יוצרים מסגרת לאחריות ומבטיחים חווית שירות עקבית ואיכותית.",
+    "LEARN_MORE": "למידע נוסף על SLA",
+    "LOADING": "טוען הסכמי SLA",
     "PAYWALL": {
-      "TITLE": "Upgrade to create SLAs",
-      "AVAILABLE_ON": "The SLA feature is only available in the Business and Enterprise plans.",
-      "UPGRADE_PROMPT": "Upgrade your plan to get access to advanced features like team management, automations, custom attributes, and more.",
-      "UPGRADE_NOW": "Upgrade now",
-      "CANCEL_ANYTIME": "You can change or cancel your plan anytime"
+      "TITLE": "שדרג כדי ליצור SLA",
+      "AVAILABLE_ON": "תכונת ה-SLA זמינה רק בתוכניות העסקיות והארגוניות.",
+      "UPGRADE_PROMPT": "שדרג את התוכנית שלך כדי לקבל גישה לפיצ'רים מתקדמים כמו ניהול צוותים, אוטומציות, שדות מותאמים אישית ועוד.",
+      "UPGRADE_NOW": "שדרג עכשיו",
+      "CANCEL_ANYTIME": "תוכל לשנות או לבטל את התוכנית שלך בכל עת"
     },
     "ENTERPRISE_PAYWALL": {
-      "AVAILABLE_ON": "The SLA feature is only available in the paid plans.",
-      "UPGRADE_PROMPT": "Upgrade to a paid plan to access advanced features like audit logs, agent capacity, and more.",
-      "ASK_ADMIN": "Please reach out to your administrator for the upgrade."
+      "AVAILABLE_ON": "תכונת ה-SLA זמינה רק בתוכניות בתשלום.",
+      "UPGRADE_PROMPT": "שדרג לתוכנית בתשלום כדי לקבל גישה לפיצ'רים מתקדמים כמו יומני ביקורת, קיבולת סוכנים ועוד.",
+      "ASK_ADMIN": "פנה למנהל המערכת שלך לצורך שדרוג."
     },
     "LIST": {
-      "404": "There are no SLAs available in this account.",
+      "404": "אין הסכמי SLA זמינים בחשבון זה.",
       "EMPTY": {
         "TITLE_1": "Enterprise P0",
-        "DESC_1": "Issues raised by enterprise customers, that require immediate attention.",
+        "DESC_1": "בעיות של לקוחות ארגוניים הדורשות טיפול מיידי.",
         "TITLE_2": "Enterprise P1",
-        "DESC_2": "Issues raised by enterprise customers, that needs to be acknowledged quickly."
+        "DESC_2": "בעיות של לקוחות ארגוניים שיש להכיר בהן במהירות."
       },
-      "BUSINESS_HOURS_ON": "Business hours on",
-      "BUSINESS_HOURS_OFF": "Business hours off",
+      "BUSINESS_HOURS_ON": "שעות פעילות מופעלות",
+      "BUSINESS_HOURS_OFF": "שעות פעילות כבויות",
       "RESPONSE_TYPES": {
-        "FRT": "First response time threshold",
-        "NRT": "Next response time threshold",
-        "RT": "Resolution time threshold",
+        "FRT": "סף זמן תגובה ראשון",
+        "NRT": "סף זמן תגובה הבא",
+        "RT": "סף זמן פתרון",
         "SHORT_HAND": {
           "FRT": "FRT",
           "NRT": "NRT",
@@ -41,34 +41,34 @@
     },
     "FORM": {
       "NAME": {
-        "LABEL": "SLA Name",
-        "PLACEHOLDER": "SLA Name",
-        "REQUIRED_ERROR": "SLA name is required",
+        "LABEL": "שם SLA",
+        "PLACEHOLDER": "שם SLA",
+        "REQUIRED_ERROR": "נדרש שם SLA",
         "MINIMUM_LENGTH_ERROR": "נדרש אורך מינימלי 2",
-        "VALID_ERROR": "רק אלפבית, מספרים, מקף וקו תחתון מותרים"
+        "VALID_ERROR": "רק אותיות, מספרים, מקף וקו תחתון מותרים"
       },
       "DESCRIPTION": {
         "LABEL": "תיאור",
-        "PLACEHOLDER": "SLA for premium customers"
+        "PLACEHOLDER": "SLA ללקוחות פרימיום"
       },
       "FIRST_RESPONSE_TIME": {
         "LABEL": "זמן תגובה ראשון",
         "PLACEHOLDER": "5"
       },
       "NEXT_RESPONSE_TIME": {
-        "LABEL": "Next Response Time",
+        "LABEL": "זמן תגובה הבא",
         "PLACEHOLDER": "5"
       },
       "RESOLUTION_TIME": {
-        "LABEL": "זמן רזולוציה",
+        "LABEL": "זמן פתרון",
         "PLACEHOLDER": "60"
       },
       "BUSINESS_HOURS": {
         "LABEL": "שעות פעילות",
-        "PLACEHOLDER": "Only during business hours"
+        "PLACEHOLDER": "רק במהלך שעות הפעילות"
       },
       "THRESHOLD_TIME": {
-        "INVALID_FORMAT_ERROR": "Threshold should be a number and greater than zero"
+        "INVALID_FORMAT_ERROR": "הסף צריך להיות מספר גדול מאפס"
       },
       "EDIT": "ערוך",
       "CREATE": "צור",
@@ -76,33 +76,33 @@
       "CANCEL": "ביטול"
     },
     "ADD": {
-      "TITLE": "Add SLA",
-      "DESC": "Friendly promises for great service!",
+      "TITLE": "הוסף SLA",
+      "DESC": "הבטחות ידידותיות לשירות מעולה!",
       "API": {
-        "SUCCESS_MESSAGE": "SLA added successfully",
-        "ERROR_MESSAGE": "היתה שגיאה, בקשה נסה שוב"
+        "SUCCESS_MESSAGE": "SLA נוסף בהצלחה",
+        "ERROR_MESSAGE": "אירעה שגיאה, נסה שוב"
       }
     },
     "DELETE": {
-      "TITLE": "Delete SLA",
+      "TITLE": "מחק SLA",
       "API": {
-        "SUCCESS_MESSAGE": "SLA deleted successfully",
-        "ERROR_MESSAGE": "היתה שגיאה, בקשה נסה שוב"
+        "SUCCESS_MESSAGE": "SLA נמחק בהצלחה",
+        "ERROR_MESSAGE": "אירעה שגיאה, נסה שוב"
       },
       "CONFIRM": {
         "TITLE": "אשר מחיקה",
-        "MESSAGE": "Are you sure you want to delete ",
+        "MESSAGE": "האם אתה בטוח שברצונך למחוק ",
         "YES": "כן, מחק ",
         "NO": "לא, השאר "
       }
     },
     "EVENTS": {
-      "TITLE": "SLA Misses",
-      "FRT": "First response time",
-      "NRT": "Next response time",
-      "RT": "Resolution time",
-      "SHOW_MORE": "{count} more",
-      "HIDE": "Hide {count} rows"
+      "TITLE": "החמצות SLA",
+      "FRT": "זמן תגובה ראשון",
+      "NRT": "זמן תגובה הבא",
+      "RT": "זמן פתרון",
+      "SHOW_MORE": "{count} נוספים",
+      "HIDE": "הסתר {count} שורות"
     }
   }
 }

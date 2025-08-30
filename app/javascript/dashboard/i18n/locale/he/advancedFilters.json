@@ -53,7 +53,7 @@
       "CAMPAIGN_NAME": "שם קמפיין",
       "LABELS": "תוויות",
       "BROWSER_LANGUAGE": "שפת הדפדפן",
-      "PRIORITY": "Priority",
+      "PRIORITY": "עדיפות",
       "COUNTRY_NAME": "שם המדינה",
       "REFERER_LINK": "קישור מפנה",
       "CUSTOM_ATTRIBUTE_LIST": "רשימה",
@@ -93,7 +93,7 @@
         }
       },
       "EDIT": {
-        "EDIT_BUTTON": "Edit folder"
+        "EDIT_BUTTON": "ערוך תיקיה"
       },
       "DELETE": {
         "DELETE_BUTTON": "מחק מסנן",
@@ -101,7 +101,7 @@
           "CONFIRM": {
             "TITLE": "אשר מחיקה",
             "MESSAGE": "האם אתה בטוח למחוק הסנן הזה ",
-            "YES": "Yes, delete",
+            "YES": "כן, מחק",
             "NO": "לא, שמור את זה"
           }
         },

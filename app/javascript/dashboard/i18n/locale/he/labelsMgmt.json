@@ -3,8 +3,8 @@
     "HEADER": "תוויות",
     "HEADER_BTN_TXT": "הוסף תווית",
     "LOADING": "מביא תוויות",
-    "DESCRIPTION": "Labels help you categorize and prioritize conversations and leads. You can assign a label to a conversation or contact using the side panel.",
-    "LEARN_MORE": "Learn more about labels",
+    "DESCRIPTION": "תוויות עוזרות לך לקטלג ולתעדף שיחות ולידים. ניתן להקצות תווית לשיחה או איש קשר באמצעות הפאנל הצדדי.",
+    "LEARN_MORE": "למידע נוסף על תוויות",
     "SEARCH_404": "אין פריטים התואמים לשאילתה זו",
     "LIST": {
       "404": "אין תוויות זמינות בחשבון זה.",
@@ -13,7 +13,7 @@
       "TABLE_HEADER": {
         "NAME": "שם",
         "DESCRIPTION": "תיאור",
-        "COLOR": "צֶבַע"
+        "COLOR": "צבע"
       }
     },
     "FORM": {
@@ -22,7 +22,7 @@
         "PLACEHOLDER": "שם התווית",
         "REQUIRED_ERROR": "נדרש שם תווית",
         "MINIMUM_LENGTH_ERROR": "נדרש אורך מינימלי 2",
-        "VALID_ERROR": "רק אלפבית, מספרים, מקף וקו תחתון מותרים"
+        "VALID_ERROR": "רק אותיות, מספרים, מקף וקו תחתון מותרים"
       },
       "DESCRIPTION": {
         "LABEL": "תיאור",
@@ -41,38 +41,38 @@
     },
     "SUGGESTIONS": {
       "TOOLTIP": {
-        "SINGLE_SUGGESTION": "Add label to conversation",
-        "MULTIPLE_SUGGESTION": "Select this label",
-        "DESELECT": "Deselect label",
-        "DISMISS": "Dismiss suggestion"
+        "SINGLE_SUGGESTION": "הוסף תווית לשיחה",
+        "MULTIPLE_SUGGESTION": "בחר תווית זו",
+        "DESELECT": "הסר בחירה מהתווית",
+        "DISMISS": "התעלם מהצעה"
       },
       "POWERED_BY": "Chatwoot AI",
       "DISMISS": "סגור",
-      "ADD_SELECTED_LABELS": "Add selected labels",
-      "ADD_SELECTED_LABEL": "Add selected label",
-      "ADD_ALL_LABELS": "Add all labels",
-      "SUGGESTED_LABELS": "Suggested labels"
+      "ADD_SELECTED_LABELS": "הוסף תוויות שנבחרו",
+      "ADD_SELECTED_LABEL": "הוסף תווית שנבחרה",
+      "ADD_ALL_LABELS": "הוסף את כל התוויות",
+      "SUGGESTED_LABELS": "תוויות מוצעות"
     },
     "ADD": {
       "TITLE": "הוסף תווית",
       "DESC": "תוויות מאפשרות לך לקבץ את השיחות יחד.",
       "API": {
         "SUCCESS_MESSAGE": "תווית נוספה בהצלחה",
-        "ERROR_MESSAGE": "היתה שגיאה, בקשה נסה שוב"
+        "ERROR_MESSAGE": "התרחשה שגיאה, נסה שוב"
       }
     },
     "EDIT": {
       "TITLE": "ערוך תווית",
       "API": {
         "SUCCESS_MESSAGE": "התווית עודכנה בהצלחה",
-        "ERROR_MESSAGE": "היתה שגיאה, בקשה נסה שוב"
+        "ERROR_MESSAGE": "התרחשה שגיאה, נסה שוב"
       }
     },
     "DELETE": {
       "BUTTON_TEXT": "מחק",
       "API": {
         "SUCCESS_MESSAGE": "התווית נמחקה בהצלחה",
-        "ERROR_MESSAGE": "היתה שגיאה, בקשה נסה שוב"
+        "ERROR_MESSAGE": "התרחשה שגיאה, נסה שוב"
       },
       "CONFIRM": {
         "TITLE": "אשר מחיקה",

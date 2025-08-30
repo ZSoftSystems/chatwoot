@@ -2,23 +2,23 @@
   "WHATSAPP_TEMPLATES": {
     "MODAL": {
       "TITLE": "תבניות וואטסאפ",
-      "SUBTITLE": "בחר את תבנית הווטסאפ שברצונך לשלוח",
-      "TEMPLATE_SELECTED_SUBTITLE": "Configure template: {templateName}"
+      "SUBTITLE": "בחר את תבנית הוואטסאפ שברצונך לשלוח",
+      "TEMPLATE_SELECTED_SUBTITLE": "הגדר תבנית: {templateName}"
     },
     "PICKER": {
       "SEARCH_PLACEHOLDER": "חפש תבניות",
       "NO_TEMPLATES_FOUND": "לא נמצאו תבניות עבור",
-      "HEADER": "Header",
-      "BODY": "Body",
-      "FOOTER": "Footer",
-      "BUTTONS": "Buttons",
+      "HEADER": "כותרת",
+      "BODY": "גוף",
+      "FOOTER": "כותרת תחתונה",
+      "BUTTONS": "כפתורים",
       "CATEGORY": "קטגוריה",
-      "MEDIA_CONTENT": "Media Content",
-      "MEDIA_CONTENT_FALLBACK": "media content",
-      "NO_TEMPLATES_AVAILABLE": "No WhatsApp templates available. Click refresh to sync templates from WhatsApp.",
-      "REFRESH_BUTTON": "Refresh templates",
-      "REFRESH_SUCCESS": "Templates refresh initiated. It may take a couple of minutes to update.",
-      "REFRESH_ERROR": "Failed to refresh templates. Please try again.",
+      "MEDIA_CONTENT": "תוכן מדיה",
+      "MEDIA_CONTENT_FALLBACK": "תוכן מדיה",
+      "NO_TEMPLATES_AVAILABLE": "אין תבניות וואטסאפ זמינות. לחץ רענן כדי לסנכרן תבניות מוואטסאפ.",
+      "REFRESH_BUTTON": "רענן תבניות",
+      "REFRESH_SUCCESS": "רענון התבניות החל. זה עשוי לקחת מספר דקות לעדכון.",
+      "REFRESH_ERROR": "נכשל רענון התבניות. נסה שוב.",
       "LABELS": {
         "LANGUAGE": "שפה",
         "TEMPLATE_BODY": "גוף התבנית",
@@ -29,18 +29,18 @@
       "VARIABLES_LABEL": "משתנים",
       "LANGUAGE": "שפה",
       "CATEGORY": "קטגוריה",
-      "VARIABLE_PLACEHOLDER": "הזן ערך {variable}",
+      "VARIABLE_PLACEHOLDER": "הזן ערך עבור {variable}",
       "GO_BACK_LABEL": "חזור",
-      "SEND_MESSAGE_LABEL": "לשלוח הודעה",
+      "SEND_MESSAGE_LABEL": "שלח הודעה",
       "FORM_ERROR_MESSAGE": "נא למלא את כל המשתנים לפני השליחה",
-      "MEDIA_HEADER_LABEL": "{type} Header",
-      "OTP_CODE": "Enter 4-8 digit OTP",
-      "EXPIRY_MINUTES": "Enter expiry minutes",
-      "BUTTON_PARAMETERS": "Button Parameters",
-      "BUTTON_LABEL": "Button {index}",
-      "COUPON_CODE": "Enter coupon code (max 15 chars)",
-      "MEDIA_URL_LABEL": "Enter {type} URL",
-      "BUTTON_PARAMETER": "Enter button parameter"
+      "MEDIA_HEADER_LABEL": "כותרת {type}",
+      "OTP_CODE": "הזן קוד OTP בן 4-8 ספרות",
+      "EXPIRY_MINUTES": "הזן דקות תפוגה",
+      "BUTTON_PARAMETERS": "פרמטרים של כפתור",
+      "BUTTON_LABEL": "כפתור {index}",
+      "COUPON_CODE": "הזן קוד קופון (עד 15 תווים)",
+      "MEDIA_URL_LABEL": "הזן כתובת {type}",
+      "BUTTON_PARAMETER": "הזן פרמטר כפתור"
     }
   }
 }

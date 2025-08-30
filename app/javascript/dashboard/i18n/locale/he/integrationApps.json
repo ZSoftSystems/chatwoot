@@ -1,7 +1,7 @@
 {
   "INTEGRATION_APPS": {
     "FETCHING": "שליפת אינטגרציות",
-    "NO_HOOK_CONFIGURED": "אין {integrationId} אינטגרציות מוגדרות בחשבון זה.",
+    "NO_HOOK_CONFIGURED": "אין אינטגרציות {integrationId} מוגדרות בחשבון זה.",
     "HEADER": "יישומים",
     "STATUS": {
       "ENABLED": "מופעל",
@@ -24,7 +24,7 @@
       },
       "CANCEL_BUTTON_TEXT": "ביטול",
       "API": {
-        "SUCCESS_MESSAGE": "ה-Hook נמחק בהצלחה",
+        "SUCCESS_MESSAGE": "הקרס נמחק בהצלחה",
         "ERROR_MESSAGE": "לא ניתן להתחבר לשרת Woot, נסה שוב מאוחר יותר"
       }
     },
@@ -56,7 +56,7 @@
       "BUTTON_TEXT": "התנתק"
     },
     "SIDEBAR_DESCRIPTION": {
-      "DIALOGFLOW": "Dialogflow is a natural language processing platform for building conversational interfaces. Integrating it with {installationName} lets bots handle queries first and transfer them to agents when needed. It helps qualify leads and reduce agent workload by answering FAQs. To add Dialogflow, create a Service Account in Google Console and share the credentials. Refer to the docs for details"
+      "DIALOGFLOW": "Dialogflow היא פלטפורמת עיבוד שפה טבעית לבניית ממשקי שיחה. שילובה עם {installationName} מאפשר לבוטים לטפל בפניות תחילה ולהעביר אותן לסוכנים בעת הצורך. זה עוזר לסנן לידים ולהפחית את עומס העבודה של הסוכנים על ידי מענה לשאלות נפוצות. כדי להוסיף את Dialogflow, צור חשבון שירות ב-Google Console ושתף את פרטי ההתחברות. עיין בתיעוד לפרטים נוספים."
     }
   }
 }

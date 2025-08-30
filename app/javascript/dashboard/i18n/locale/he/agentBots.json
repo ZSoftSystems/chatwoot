@@ -1,32 +1,32 @@
 {
   "AGENT_BOTS": {
     "HEADER": "בוטים",
-    "LOADING_EDITOR": "Loading editor...",
+    "LOADING_EDITOR": "טוען עורך...",
     "DESCRIPTION": "בוטים של סוכנים הם כמו החברים הכי נפלאים בצוות שלכם. הם יכולים להתמודד עם הדברים הקטנים, כך שאתם יכולים להתמקד בדברים החשובים. נסו אותם. אתם יכולים לנהל את הבוטים שלכם מדף זה או ליצור חדשים באמצעות כפתור 'הוסף בוט'.",
-    "LEARN_MORE": "Learn about agent bots",
+    "LEARN_MORE": "למד על בוטים של סוכנים",
     "GLOBAL_BOT": "בוט מערכת",
-    "GLOBAL_BOT_BADGE": "System",
+    "GLOBAL_BOT_BADGE": "מערכת",
     "AVATAR": {
       "SUCCESS_DELETE": "בוט אווטר נמחק בהצלחה",
       "ERROR_DELETE": "תקלה במחיקת בוט אווטר, יש לנסות שוב"
     },
     "BOT_CONFIGURATION": {
       "TITLE": "בחר סוכן בוט",
-      "DESC": "Assign an Agent Bot to your inbox. They can handle initial conversations and transfer them to a live agent when necessary.",
+      "DESC": "הקצה בוט סוכן לתיבת הדואר הנכנס שלך. הם יכולים לטפל בשיחות ראשוניות ולהעביר אותם לסוכן חי במידת הצורך.",
       "SUBMIT": "עדכן",
-      "DISCONNECT": "Disconnect bot",
+      "DISCONNECT": "נתק בוט",
       "SUCCESS_MESSAGE": "סוכן הבוט עודכן בהצלחה.",
       "DISCONNECTED_SUCCESS_MESSAGE": "סוכן הבוט נותק בהצלחה.",
-      "ERROR_MESSAGE": "Could not update the agent bot. Please try again.",
-      "DISCONNECTED_ERROR_MESSAGE": "Could not disconnect the agent bot. Please try again.",
-      "SELECT_PLACEHOLDER": "Select bot"
+      "ERROR_MESSAGE": "לא ניתן לעדכן את סוכן הבוט. אנא נסה שוב.",
+      "DISCONNECTED_ERROR_MESSAGE": "לא ניתן לנתק את סוכן הבוט. אנא נסה שוב.",
+      "SELECT_PLACEHOLDER": "בחר בוט"
     },
     "ADD": {
       "TITLE": "הוסף בוט",
       "CANCEL_BUTTON_TEXT": "ביטול",
       "API": {
         "SUCCESS_MESSAGE": "הבוט התווסף בהצלחה.",
-        "ERROR_MESSAGE": "Could not add bot. Please try again later."
+        "ERROR_MESSAGE": "לא ניתן להוסיף בוט. אנא נסה שוב מאוחר יותר."
       }
     },
     "LIST": {
